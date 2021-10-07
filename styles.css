@@ -13,8 +13,11 @@ header{
 }
 header .logo{
     float: left;
+<<<<<<< HEAD
     width: 20px;
     height: 20px;
+=======
+>>>>>>> 5f90f1c4c27b7dd81a616a385ff84b090e0cd152
 }
 header .menu{
     float: right;
@@ -104,7 +107,10 @@ header .menu ul li.btn a:hover{
 .student span,
 .name span,
 .menu li,
+<<<<<<< HEAD
 .logo,
+=======
+>>>>>>> 5f90f1c4c27b7dd81a616a385ff84b090e0cd152
 .small-intro span{
     opacity: 0;
 }
